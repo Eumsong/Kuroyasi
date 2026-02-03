@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "그림 노트",
+    "slug": "draw-note-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#2d2d3a"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.drawnote.app",
+      "buildNumber": "1"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#2d2d3a"
+      },
+      "package": "com.drawnote.app",
+      "versionCode": 1
+    },
+    "platforms": ["ios", "android"]
+  }
+}
